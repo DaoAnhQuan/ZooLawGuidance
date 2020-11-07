@@ -1,25 +1,58 @@
-import logo from './logo.svg';
 import './App.css';
+import React, { Component } from 'react';
+import { createBrowserHistory } from 'history';
+import { Router,Switch,Route, Link } from 'react-router-dom';
+import { Layout, Menu, Modal } from 'antd';
+import Introduction from './components/Introduction' 
+import SpeciesList from './components/SpeciesList'
+import SubMenu from 'antd/lib/menu/SubMenu';
+import Advertisement from './components/Advertisement'
+import AdvertisementPreview from './components/AdvertisementPreview'
+const { Header, Content, Footer } = Layout;
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const history = createBrowserHistory();
+class App extends Component {
+  render(){
+    return (
+      <Router history = {history}>
+          <Layout className="layout">
+            <Header>
+              <div className="logo" />
+              <Menu theme="dark"  mode="horizontal" defaultSelectedKeys={['1']}>
+                <Menu.Item key="1">
+                  <Link to="/">Giới thiệu</Link>
+                </Menu.Item>
+                <SubMenu key="2" title="Hướng dẫn xử lý vi phạm">
+                  <Menu.Item>
+                    <Link to="/huongdan">Liên quan đến quảng cáo bán ĐVHD trái phép</Link>
+                  </Menu.Item>
+                </SubMenu>
+                <Menu.Item key="3">
+                  <Link to="/loai">Danh mục loài</Link>
+                </Menu.Item>
+              </Menu>
+            </Header>
+            <Content style={{ padding: '0 50px', marginTop:'20px' }}>
+              <Switch>
+                <Route exact path="/">
+                  <Introduction/>
+                </Route>
+                <Route path="/huongdan">
+                  <Advertisement/>
+                </Route>
+                <Route path="/loai">
+                  <SpeciesList/>
+                </Route>
+                <Route path="/adpreview">
+                  <AdvertisementPreview/>
+                </Route>
+              </Switch>
+            </Content>
+            <Footer style={{ textAlign: 'center' }}>Created by Zootopia group</Footer>
+          </Layout>
+      </Router>
+    );
+  }
 }
 
 export default App;
