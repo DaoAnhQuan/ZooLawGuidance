@@ -13,12 +13,20 @@
   background: #fff;
 }
 .logo {
+  border-radius: 20px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: #10ff18;
   float: left;
   width: 120px;
-  height: 31px;
-  margin: 16px 24px 16px 0;
+  height: 100%;
+  margin: 0px 24px 0px 0;
   background: rgba(255, 255, 255, 0.3);
+  background-image: url('https://lumiere-a.akamaihd.net/v1/images/rich_mobile_zootopia_header_90609103.jpeg?region=0,0,640,300');
+  background-size: 100% 100%;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -105,16 +105,17 @@ const Advertisement = ({}) => {
                 <Card title="Hướng dẫn">
                     <Table columns = {columns} dataSource = {dataSource} bordered/>
                 </Card>
-                <Button 
-                    type="primary" 
-                    style={{textAlign:'center'}}
-                    onClick={()=>{
-                        localStorage.setItem('dataSource',JSON.stringify(dataSource)); 
+                <Card style={{textAlign:'center'}}>
+                    <Button 
+                        type="primary" 
+                        onClick={()=>{
+                            localStorage.setItem('dataSource',JSON.stringify(dataSource)); 
 
-                        localStorage.setItem('introdata',introData)}}
-                >
-                    <Link to='/adpreview'>Preview</Link>
-                </Button>
+                            localStorage.setItem('introdata',introData)}}
+                    >
+                        <Link to='/adpreview'>Preview</Link>
+                    </Button>
+                </Card>
                 <ModifyLawForm
                     visible = {visible}
                     onCreate = {onCreate}

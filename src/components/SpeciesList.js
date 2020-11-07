@@ -1,7 +1,8 @@
 import React, { useContext, useState, useEffect, useRef } from 'react';
-import { Table, Input, Button, Popconfirm, Form, Modal, Image } from 'antd';
+import { Table, Input, Button, Popconfirm, Form, Modal, Image, Card } from 'antd';
 import {DeleteOutlined, EditOutlined} from '@ant-design/icons';
-import ModifySpeciesForm from './ModifySpeciesForm'
+import ModifySpeciesForm from './ModifySpeciesForm';
+import {Link} from 'react-router-dom';
 
 const dataSource = [
     {
@@ -406,22 +407,35 @@ class SpeciesList extends React.Component {
     const {record} = this.state
     return (
       <div>
-        <Button
-          onClick={()=>this.setAction('ADD','0')}
-          type="primary"
-          style={{
-            marginBottom: 16,
-          }}
-        >
-          Thêm loài
-        </Button>
-        <Table
-          components={components}
-          rowClassName={() => 'editable-row'}
-          bordered
-          dataSource={dataSource}
-          columns={columns}
-        />
+        <Card>
+          <Button
+            onClick={()=>this.setAction('ADD','0')}
+            type="primary"
+            style={{
+              marginBottom: 16,
+            }}
+          >
+            Thêm loài
+          </Button>
+          <Table
+            components={components}
+            rowClassName={() => 'editable-row'}
+            bordered
+            dataSource={dataSource}
+            columns={columns}
+          />
+        </Card>
+
+        <Card style={{textAlign:'center'}}>
+          <Button 
+            type='primary' 
+            onClick={()=>{
+              localStorage.setItem('species',JSON.stringify(dataSource));
+            }}
+          >
+            <Link to='/speciespreview'>Preview</Link>
+          </Button>
+        </Card>
         
         <ModifySpeciesForm
             key = {this.state.visible}

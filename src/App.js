@@ -8,6 +8,7 @@ import SpeciesList from './components/SpeciesList'
 import SubMenu from 'antd/lib/menu/SubMenu';
 import Advertisement from './components/Advertisement'
 import AdvertisementPreview from './components/AdvertisementPreview'
+import SpeciesPreview from './components/SpeciesPreview'
 const { Header, Content, Footer } = Layout;
 
 const history = createBrowserHistory();
@@ -15,9 +16,9 @@ class App extends Component {
   render(){
     return (
       <Router history = {history}>
-          <Layout className="layout">
+          <Layout style={{backgroundImage:'url(https://www.itourvn.com/images/easyblog_images/exotic_animals/Indian_Elephant.jpg)', minHeight:'100vh'}}>
             <Header>
-              <div className="logo" />
+              <div className="logo"></div>
               <Menu theme="dark"  mode="horizontal" defaultSelectedKeys={['1']}>
                 <Menu.Item key="1">
                   <Link to="/">Giới thiệu</Link>
@@ -46,9 +47,12 @@ class App extends Component {
                 <Route path="/adpreview">
                   <AdvertisementPreview/>
                 </Route>
+                <Route path="/speciespreview">
+                  <SpeciesPreview/>
+                </Route>
               </Switch>
             </Content>
-            <Footer style={{ textAlign: 'center' }}>Created by Zootopia group</Footer>
+            <Footer style={{ textAlign: 'center' }}>@ Created by Zootopia group</Footer>
           </Layout>
       </Router>
     );
