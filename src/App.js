@@ -9,6 +9,7 @@ import SubMenu from 'antd/lib/menu/SubMenu';
 import Advertisement from './components/Advertisement'
 import AdvertisementPreview from './components/AdvertisementPreview'
 import SpeciesPreview from './components/SpeciesPreview'
+import Reference from './components/Reference'
 const { Header, Content, Footer } = Layout;
 
 const history = createBrowserHistory();
@@ -36,7 +37,7 @@ class App extends Component {
             <Content style={{ padding: '0 50px', marginTop:'20px' }}>
               <Switch>
                 <Route exact path="/">
-                  <Introduction/>
+                  <Reference/>
                 </Route>
                 <Route path="/huongdan">
                   <Advertisement/>
