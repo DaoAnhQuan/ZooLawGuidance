@@ -1,0 +1,405 @@
+[
+  {
+    "vietnamese_name": "Bồ nông chân xám",
+    "scientific_name": "Pelecanus philippensis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Spot-billed_Pelican_%28Pelecanus_philippensis%29_at_Uppalapadu_in_AP_W_IMG_2831.jpg",
+    "class": "Lớp chim (AVES)",
+    "order": "Bộ bồ nông (PELECANIFORMES)",
+    "description": "139,7cm. Chim trưởng thành bộ lông có màu trắng ngà, mỏ to, nhọn, chóp mỏ trên có móng cong, mỏ dưới có màng da rất rộng không có lông. Lông cánh sơ cấp màu đen, các lông cánh thứ cấp màu nâu tối; lông trên cổ màu nâu; chân có màng bơi rộng, màu nâu tối hoặc sáng tối. Trong mùa sinh sản: Trên gáy có mào lông như bờm ngựa; lưng dưới màu hơi hồng. Chim non như con trưởng thành, nhưng phần trên cơ thể màu nâu nhạt, phần dưới cơ thể trắng nhạt phớt nâu.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Đại bàng đầu nâu",
+    "scientific_name": "Aquila heliaca",
+    "image": "https://www.oiseaux.net/photos/aurelien.audevard/images/aigle.imperial.auau.2g.jpg",
+    "class": "Lớp chim (AVES)",
+    "order": "Bộ ưng (ACCIPITRIFORMES)",
+    "description": "79-84cm. Là loài đại bàng có kích thước lớn, đôi cánh dài, đầu dô và đuôi khá dài. Thường bay vút lên và lượn với đôi cánh bằng hoặc hơi nâng lên. Hay đậu lâu ở nơi cao. Chim trưởng thành: Có màu tối với gáy và đỉnh đầu màu xám bạc; đuôi màu sáng bạc, mút đuôi có màu tối (phía trên) và đặc điểm nhận biết là những “vằn ngang” màu trắng ở hai bên đuôi (khó nhìn thấy). Chim non: Có màu cát nâu nhạt với lông cánh và đuôi có màu tối tương phản, một đám sọc màu tối nổi ngang ở ngực, đường viền cánh màu trắng; phần lưng dưới và phần lưng trên đuôi có một mảng to màu kem. Chim sắp trưởng thành: Dần dần có bộ lông của chim trưởng thành trong vòng hơn 6 năm, trong 3 năm đầu vẫn giữ hình dáng của chim non và sau đó bộ lông trông ố bẩn.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Kỳ đà vân",
+    "scientific_name": "Varanus nebulosus",
+    "image": "https://www.ecologyasia.com/images-abc/clouded-monitor-juv_0557.jpg",
+    "class": "Lớp bò sát (REPTILIA)",
+    "order": "Bộ có vảy (SQUAMATA)",
+    "description": "Có cơ thể dài tới 2m, kích thước và hình dáng tương tự như Kỳ đà hoa, song đuôi chúng không dẹp bên, lỗ mũi là một khe xiên có vị trí gần mắt hơn đầu mõm, lưng có màu xám hay nâu nhạt với những đốm vàng nhỏ rải rác, các chi có những vết màu đen nhạt nằm theo chiều ngang và có những vân đen, bụng có nhiều vân nâu xám và vàng.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Hải sâm hổ phách",
+    "scientific_name": "Thelenota anax",
+    "image": "https://reefguide.org/pix/thumb2/thelenotaanax1.jpg",
+    "class": "Lớp bò sát (REPTILIA)",
+    "order": "Bộ rùa (TESTUDINES)",
+    "description": "Bề ngoài thì đồi mồi trông giống như các loài rùa biển khác. Cơ thể tương đối dẹp, mai lớn để bảo vệ cơ thể, và các chi giống mái chèo. Việc con người săn bắt các quần thể đe dọa E. imbricata tuyệt chủng. Liên minh Bảo tồn Thiên nhiên Quốc tế xếp loại đồi mồi ở cấp cực kỳ nguy cấp.[1] Công ước về thương mại quốc tế các loài động, thực vật hoang dã nguy cấp (CITES) cấm săn bắt và thương mại các sản phẩm từ đồi mồi vì mọi mục đích.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Đồi mồi",
+    "scientific_name": "Eretmochelys imbricata",
+    "image": "https://www.edgeofexistence.org/wp-content/uploads/2017/11/Eretmochelys-imbricata_shutterstock_531298165-1000x667.jpg",
+    "class": "Lớp bò sát (REPTILIA)",
+    "order": "Bộ rùa (TESTUDINES)",
+    "description": "Bề ngoài thì đồi mồi trông giống như các loài rùa biển khác. Cơ thể tương đối dẹp, mai lớn để bảo vệ cơ thể, và các chi giống mái chèo. Việc con người săn bắt các quần thể đe dọa E. imbricata tuyệt chủng. Liên minh Bảo tồn Thiên nhiên Quốc tế xếp loại đồi mồi ở cấp cực kỳ nguy cấp.[1] Công ước về thương mại quốc tế các loài động, thực vật hoang dã nguy cấp (CITES) cấm săn bắt và thương mại các sản phẩm từ đồi mồi vì mọi mục đích.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Cá mập biển",
+    "scientific_name": "Carcharhinus amblyrhynchoides",
+    "image": "https://www.bmis-bycatch.org/sites/default/files/2016-11/shark.jpg",
+    "class": "Lớp cá sụn (CHONDRICHTHYES)",
+    "order": "Bộ cá mập trắng (CHONDRICHTHYES)",
+    "description": "Cá mập chỉ có sụn chứ không có xương, cá mập chỉ có thể bơi thẳng tới chứ không thể bơi thụt lùi được. Nhìn xa, bạn có thể cho rằng cá mập không có vảy, nhưng thực chất bộ da của chúng được phủ rất nhiều vảy nhỏ, khi sờ vào bạn có thể thấy nhám như giấy ráp. Một con cá mập có thể phát hiện ra một giọt máu trong một bể bơi có dung tích chuẩn Olympic. Cá mập có thể sống trung bình khoảng 25 năm. Tuy nhiên có một số loại, ví dụ như cá mập voi, có thể sống tới 100 năm. Trên thế giới có khoảng 440 loài cá mập, nhưng chỉ 30 loài là nguy hiểm với con người. Theo thống kê, một năm cá mập tấn công khoảng dưới 100 người, trong khi đó số người chết vì ong đốt hoặc bị dừa rơi trúng đầu lớn hơn nhiều.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Tê tê vàng",
+    "scientific_name": "Manis pentadactyla",
+    "image": "https://bioone.org/ContentImages/Journals/trcs/10/1/1940082917709648/graphic/10.1177_1940082917709648-fig1.jpg",
+    "class": "Lớp thú (MAMMALIA)",
+    "order": "Bộ tê tê (PHOLIDOTA)",
+    "description": "Thân dài 0,2 tới 0,5m. Trọng lượng: 5 - 7kg. Không có răng, lưỡi dài nhiều chất dính. Toàn thân (trừ bụng) phủ lớp vẩy sừng, vẩy sừng xếp chồng lên nhau giống như lợp ngói. Có 15 hàng vẩy thân xếp theo chiều dọc, 11 - 13 hàng xếp theo chiều ngang; đuôi có 14 - 17 hàng vẩy xếp theo chiều dọc, 8 hàng xếp theo chiều ngang (3 hàng ở mặt trên, 3 hàng ở mặt dưới, 2 hàng ở mép đuôi). Vẩy có mầu vàng sẫm, vàng, hoặc vàng nhạt. Có những con bạch tạng do nuôi con trong hang lâu ngày. Bụng không có vẩy, da bụng dầy có lông thưa cứng. Bàn chân trước 5 ngón, 3 ngón giữa có móng (vuốt) dài và cong. Móng chân trước dài gấp 1,5 lần móng chân sau.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Khỉ mặt đỏ",
+    "scientific_name": "Macaca arctoides",
+    "image": "https://www.thiennhien.net/wp-content/uploads/2015/07/290715_khimatdo.jpg",
+    "class": "Lớp thú (MAMMALIA)",
+    "order": "Bộ linh trưởng (PRIMATES)",
+    "description": "Màu lông thường là màu nâu sẫm, nhưng cũng có biến đổi từ đen sang đỏ. Phần dưới của bụng bao giờ cũng nhạt hơn phía trên. Lưng màu nâu đỏ tới nâu sẫm. Mặt phần lớn có màu đỏ. Lông trên đỉnh đầu thường toả ra các phía xung quanh. Lông ở hai bên má toả ra phía sau. Khỉ mặt đỏ có đuôi to, ngắn, không quá 1/3 dài bàn chân sau. Dương vật của con đực trưởng thành dài khác thường. Điểm nổi bật là chai mông to, không có lông.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Beo lửa",
+    "scientific_name": "Catopuma temminckii",
+    "image": "https://zooinstitutes.com/img/animals/63/6303.jpg",
+    "class": "Lớp thú (MAMMALIA)",
+    "order": "Bộ thú ăn thịt (CARNIVORA)",
+    "description": "Bộ lông báo lửa không có hoa văn hoặc đốm sọc; nếu có, có thể 2 sọc mờ dọc lưng. Lông đồng mầu hoặc đỏ da bò hoặc xám gio hay nâu hung. Mặt có 2 sọc trắng từ khoé mắt lên đỉnh đầu, 2 - 3 vạch trắng ở mép môi trên. Mầu lông lưng và bụng ít tách biệt. Đặc điểm quan trọng nhất là đuôi có 2 mầu rõ rệt: mặt trên cùng mầu thân, mặt dưới sáng.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Bò biển",
+    "scientific_name": "Dugong dugon",
+    "image": "https://www.researchgate.net/profile/Daniela_Luca/publication/228400399/figure/fig1/AS:669389917528085@1536606401853/Adult-dugong-Dugong-dugon-Photo-C-Doug-Perrine-Seapicscom.png",
+    "class": "Lớp thú (MAMMALIA)",
+    "order": "Bộ hải ngưu (SIRENIA)",
+    "description": "Bò biển là loài động vật có vú sống dưới biển, da màu xám, có mối liên hệ khá gần gũi với loài voi. Không như các loài động vật trên cạn như bò hay thỏ, bò biển không có nhiều lông. Da của bò biển nhẵn, chỉ có vài sợi lông rải rác trên mặt da. Đầu chúng tròn, hai mắt nhỏ và mõm lớn. Các chi của chúng giống như mái chèo và không có móng.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Rùa núi vàng",
+    "scientific_name": "Indotestudo elongata",
+    "image": "https://64.media.tumblr.com/2bf17b80f354381b9415f9e941675872/tumblr_pwwz819cMZ1usv7xpo1_1280.jpg",
+    "class": "Lớp bò sát (REPTILIA)",
+    "order": "Bộ rùa (TESTUDINES)",
+    "description": "Đầu có nhiều tấm sừng. Mai gồ cao, có màu vàng, giữa mỗi tấm vảy có đốm đen. Phía trước yếm phẳng, phía sau yếm lõm sâu. Chân hình trụ, ngón chân không có màng. Rùa núi vàng trưởng thành dài khoảng 30 cm, nặng khoảng 3,5 kg. Con cái có xu hướng to hơn và tròn hơn con đực trong khi con đực có đuôi lớn hơn nhiều so với con cái",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Ốc anh vũ",
+    "scientific_name": "Nautilus pompilius",
+    "image": "https://i.pinimg.com/originals/55/9a/4b/559a4bdf643874d6e4cb77453a6c3d2c.jpg",
+    "class": "Lớp chân bụng (GASTROPODA)",
+    "order": "Ngành thân mềm (MOLLUSCA)",
+    "description": "Sống dưới đáy biển sâu vài trăm mét ở vùng nhiệt đới và cận nhiệt đới. Ốc anh vũ là loài động vật thân mềm (nhuyễn thể) rất cổ xưa, Đến nay đã trải qua cuộc đời dâu bể 350 triệu năm. Nó là một trong 4 loài ốc anh vũ của chi Nautilus còn sinh tồn nên được coi là một dạng hóa thạch sống, Đồng thời nó cũng là loài điển hình của chi Nautilus và họ Lautilidae. Đây cũng là loài duy nhất bắt gặp tại Việt Nam. Có số lượng ít và bị khai thác mạnh làm hàng mỹ nghệ, Dễ bị tuyệt chủng. Nhờ vào ốc anh vũ ta có thể tiên đoán được tuổi của Trái Đất, dựa trên những vệt màu trên thân của nó. Và cũng là một trong số động vật nằm trong sách đỏ việt nam.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  },
+  {
+    "vietnamese_name": "Cầu gai đá",
+    "scientific_name": "Heterocentrotusmammillatus",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71ZzaqyupVL._AC_SX522_.jpg",
+    "class": "Lớp chân bụng (GASTROPODA)",
+    "order": "Ngành da gai (ECHINODERMATA)",
+    "description": "Loài này là một loại nhím biển lớn, với một số mẫu vật đạt hơn 8 cm đường kính, và gai lên đến 10 cm. Hầu hết mẫu vật có màu đỏ sáng, nhưng cũng có thể xuất hiện màu nâu và tím. Các gai có thể có một màu khác với màu của cơ thể. Gai có một vòng trắng ở gốc và đã xen vòng sáng và  tối. Các gai vát tròn đến tam giác gần phía mũi. Đáng ngạc nhiên trong đêm, màu đỏ của gai biến thành màu phấn hồng. Mẫu vật từ Hawaii có xu hướng có màu gai đỏ tươi, trong khi các mẫu vật từ Thái Bình Dương có thể có gai màu vàng hoặc nâu.",
+    "basis": [
+      "NĐ 64",
+      "NĐ 06 nhóm IB",
+      "Phụ lục I CITES"
+    ],
+    "refs": [
+      {
+        "title": "Phát hiện hơn 20kg vảy tê tê cất giấu trong thùng xốp",
+        "url": "https://kiemsat.vn/phat-hien-hon-20kg-vay-te-te-cat-giau-trong-thung-xop-56118.html"
+      },
+      {
+        "title": "Bắt hơn 8 tấn vảy tê tê tại cảng Hải Phòng lớn nhất từ trước đến nay",
+        "url": "https://haiquanonline.com.vn/bat-hon-8-tan-vay-te-te-tai-cang-hai-phong-lon-nhat-tu-truoc-den-nay-104833.html"
+      },
+      {
+        "title": "Xét xử 2 đối tượng buôn bán 7 cá thể tê tê trái phép",
+        "url": "https://kiemsat.vn/xet-xu-2-doi-tuong-buon-ban-7-ca-the-te-te-trai-phep-55720.html"
+      },
+      {
+        "title": "Bảo vệ tê tê trước bờ vực tuyệt chủng",
+        "url": "https://nhandan.com.vn/doi-song-xa-hoi/bao-ve-te-te-truoc-bo-vuc-tuyet-chung-607379/"
+      }
+    ]
+  }
+]

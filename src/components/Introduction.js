@@ -1,9 +1,11 @@
 import {Component} from 'react'
+import {Card} from 'antd'
 
 class Introduction extends Component{
     render(){
         return (
-            <div style={{textAlign:'justify', fontSize:'large', color:'white'}}>
+            <Card title='Giới thiệu'>
+                <div style={{textAlign:'justify', fontSize:'large'}}>
                 HƯỚNG DẪN THỰC THI PHÁP LUẬT VỀ BẢO VỆ ĐỘNG VẬT HOANG DÃ 2020 (Tái bản có sửa
                 đổi, bổ sung) là một tài liệu tham khảo nhằm hỗ trợ các cơ quan chức năng trong quá trình xử lý các vi phạm
                 liên quan đến động vật hoang dã (ĐVHD) và xử lý tang vật là ĐVHD sau tịch thu trên cơ sở các văn bản quy
@@ -44,7 +46,8 @@ class Introduction extends Component{
                         https://tinyurl.com/huongdanenv2020
                     </a>
                 </div>
-            </div>
+                </div>
+            </Card>
         );
     }
 }

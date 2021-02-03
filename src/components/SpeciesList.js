@@ -208,8 +208,8 @@ class SpeciesList extends React.Component {
             id: '1',
             vietnameseName: 'Báo gấm',
             scienceName: 'Neofelis nebulosa',
-            animalSet: 'Thú ăn thịt (Carnivora)',
-            animalGroup: 'Thú',
+            animalSet: 'Bộ thú ăn thịt (Carnivora)',
+            animalGroup: 'Lớp thú (Mammalia)',
             ND64:'x',
             ND06: 'IB',
             Cites: 'I',
@@ -217,15 +217,15 @@ class SpeciesList extends React.Component {
             seafood: 'CXK',
             investimentLaw:'x',
             IUCN:'EN', 
-            image:'https://webunwto.s3.eu-west-1.amazonaws.com/styles/article_main_image/s3/2019-10/why-wildlife.jpg?itok=x54XNu8p'
+            image:'https://upload.wikimedia.org/wikipedia/commons/7/7d/Neofelis_nebulosa.jpg'
         },
         {
             key:'2',
             id: '2',
-            vietnameseName: 'Báo gấm',
-            scienceName: 'Neofelis nebulosa',
-            animalSet: 'Thú ăn thịt (Carnivora)',
-            animalGroup: 'Thú',
+            vietnameseName: 'Cầy gấm',
+            scienceName: 'Prionodon pardicolor',
+            animalSet: 'Bộ thú ăn thịt (Carnivora)',
+            animalGroup: 'Lớp thú (Mammalia)',
             ND64:'x',
             ND06: 'IB',
             Cites: 'II',
@@ -233,7 +233,7 @@ class SpeciesList extends React.Component {
             seafood: 'CXK',
             investimentLaw:'',
             IUCN:'EN', 
-            image:''
+            image:'https://upload.wikimedia.org/wikipedia/commons/e/e3/Prionodon_pardicolor_-_Kunming_Natural_History_Museum_of_Zoology_-_DSC02486.JPG'
         }
     ],
       count: 2,

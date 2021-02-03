@@ -1,7 +1,7 @@
 import {Component, useState, useRef} from 'react'
 import JoditEditor from "jodit-react";
 import {Card, Table, Button} from 'antd';
-import {EditOutlined} from '@ant-design/icons'
+import {EditOutlined, DeleteOutlined} from '@ant-design/icons'
 import ModifyLawForm from './ModifyLawForm';
 import {Link} from 'react-router-dom';
 
@@ -16,14 +16,14 @@ const Advertisement = ({}) => {
         key:1,
         id:1,
         group: 'Loài NĐ64',
-        law: '<ul><li>Khoản 2, Điều 2</li><li>Khoản 3, điều 4</li></ul>',
-        solution: '<p><strong>Nếu là ĐVHD:</strong></p><ul><li>Tử hình</li><li>Chung thân</li></ul>'
+        law: '<ul><li>Khoản 1, Điều 8, Nghị định 26</li></ul>',
+        solution: '<p><strong>Nếu là ĐVHD:</strong></p><ul><li>Xử phạt hành chính 70 - 100 triệu</li><li>Yêu cầu gỡ bỏ quảng cáo</li></ul>'
     },{
         key:2,
         id:2,
         group: 'Phụ lục II CITES',
-        law: '<ul><li>Khoản 2, Điều 2</li><li>Khoản 3, điều 4</li></ul>',
-        solution: '<p><strong>Nếu là ĐVHD:</strong></p><ul><li>Tử hình</li><li>Chung thân</li></ul>'
+        law: '<ul><li>Khoản 1,2, Điều 5, Nghị định 06</li></ul>',
+        solution: '<p><strong>Nếu là ĐVHD:</strong></p><ul><li>Yêu cầu gỡ bỏ quảng cáo</li></ul>'
     }
     ]);
 	
@@ -32,7 +32,6 @@ const Advertisement = ({}) => {
     }
 
     const onCreate = values => {
-        console.log('Received values of form: ', values);
         let data = [...dataSource];
         data[selectedItem.key-1] = {
             key: selectedItem.key,
@@ -41,7 +40,6 @@ const Advertisement = ({}) => {
             law: values.law,
             solution: values.solution,
         }
-        console.log(data);
         setDataSource(data);
         setVisible(false);
     };
@@ -78,6 +76,9 @@ const Advertisement = ({}) => {
                         <Button shape="circle" onClick={()=>onEditClick(record.key)}>
                             <EditOutlined/>
                         </Button>
+                        <Button shape='circle' style={{marginLeft:'10px'}}>
+                            <DeleteOutlined/>
+                        </Button>
                     </div>
                 ):null,
             }       
@@ -98,11 +99,13 @@ const Advertisement = ({}) => {
                         tabIndex={1} // tabIndex of textarea
                         onChange={newContent => {
                             introData = newContent;
+                            localStorage.setItem('introdata',introData);
                         }}
                     />
                     <Button type='primary' onClick={onSave} style={{marginTop:'10px'}}>Lưu</Button>
                 </Card>
-                <Card title="Hướng dẫn">
+                <Card title="Hướng dẫn xử lý vi phạm liên quan đến quảng cáo động vật hoang dã trái phép">
+                    <Button type='primary' style={{marginBottom:'10px'}}>Thêm mục</Button>
                     <Table columns = {columns} dataSource = {dataSource} bordered/>
                 </Card>
                 <Card style={{textAlign:'center'}}>
@@ -110,8 +113,9 @@ const Advertisement = ({}) => {
                         type="primary" 
                         onClick={()=>{
                             localStorage.setItem('dataSource',JSON.stringify(dataSource)); 
+                            console.log(introData);
+                        }}
 
-                            localStorage.setItem('introdata',introData)}}
                     >
                         <Link to='/adpreview'>Preview</Link>
                     </Button>

@@ -48,13 +48,17 @@ const ModifySpeciesForm = ({ visible, onCreate, onCancel, action, content }) => 
         label: 'Lớp thú (Mammalia)',
         sets: [
             {
-                value: 'Bộ cánh da',
-                label: 'Bộ cánh da',
+                value: 'Bộ cánh da (Dermoptera)',
+                label: 'Bộ cánh da (Dermoptera)',
             },
             {
-                value:'Bộ linh trưởng',
-                label: 'Bộ linh trưởng',
-            }
+                value:'Bộ linh trưởng (Primates)',
+                label: 'Bộ linh trưởng (Primates)',
+            },
+            {
+              value:'Bộ thú ăn thịt (Carnivora)',
+              label: 'Bộ thú ăn thịt (Carnivora)',
+          }
         ]
     },
     {
@@ -62,12 +66,12 @@ const ModifySpeciesForm = ({ visible, onCreate, onCancel, action, content }) => 
         label: 'Lớp bò sát (Reptilia)',
         sets: [
             {
-                value: 'Bộ có vảy',
-                label: 'Bộ có vảy'
+                value: 'Bộ có vảy (Squamata)',
+                label: 'Bộ có vảy (Squamata)'
             },
             {
-                value: 'Bộ rùa',
-                label: 'Bộ rùa',
+                value: 'Bộ rùa (Testudines)',
+                label: 'Bộ rùa (Testudines)',
             }
         ]
     },

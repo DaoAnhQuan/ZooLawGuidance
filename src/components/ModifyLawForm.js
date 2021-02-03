@@ -15,10 +15,10 @@ const ModifyLawForm = ({visible, onCreate, onCancel, content}) =>{
 		readonly: false // all options from https://xdsoft.net/jodit/doc/
     }
     const options = [{
-        value: 'ND64',
+        value: 'Loài NĐ 64',
         label: 'Loài NĐ 64',
     },{
-        value: 'cites2',
+        value: 'Phụ lục CITES II',
         label: 'Phụ lục CITES II',
     }]
 
@@ -43,7 +43,7 @@ const ModifyLawForm = ({visible, onCreate, onCancel, content}) =>{
           form
             .validateFields()
             .then((values) => {
-              onCreate(values);
+                onCreate(values);
             })
             .catch((info) => {
               console.log('Validate Failed:', info);

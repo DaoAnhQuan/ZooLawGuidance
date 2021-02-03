@@ -1,0 +1,23 @@
+.card-grid {
+    margin-top: 50px;
+}
+
+.carousel-control-prev {
+    display: none;
+}
+
+.carousel-control-next {
+    display: none;
+}
+
+.carousel-indicators {
+    visibility: hidden;
+}
+
+.search-box {
+    margin-top: 50px;
+}
+
+.search-button {
+    border-radius: 50%;
+}

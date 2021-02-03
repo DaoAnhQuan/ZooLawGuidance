@@ -1,0 +1,22 @@
+img {
+    max-width: 100%;
+    height: 150px;
+    object-fit: cover;
+    padding: 2px;
+}
+
+.species-card {
+    border-radius: 3%;
+    margin-bottom: 20px;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+.modal-img {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+    margin-left: 20px;
+}
